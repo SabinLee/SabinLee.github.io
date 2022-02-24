@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "879634G2RK.com.hsbc.develop",
+                "paths": ["/app2app"]
+            }
+        ]
+    }
+}
