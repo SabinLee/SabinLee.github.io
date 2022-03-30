@@ -5,6 +5,10 @@
             {
                 "appID": "ZLR9F6JP9W.www.helloworld.com",
                 "paths": ["/app2app"]
+            },
+            {
+                "appID": "4VQLQVGKJ.com.hsbc.rewardplus",
+                "paths": ["/mAuth/logon","/mAuth/reAuth"]
             }
         ]
     }
